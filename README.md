@@ -13,4 +13,4 @@ This is a basic Python-based antivirus tool that scans files in a directory for 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Harshita3942/antivirus.git
+   git clone https://github.com/theamitsiingh/Antivirus-Scanner.git
